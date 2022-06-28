@@ -20,9 +20,10 @@
 
 ---
 
-### :woman_technologist: About Me :
-I am a developer - :developer:
-from India.
+### 👨‍: About Me :
+
+I am a developer from India
+
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web
 applications.
 
