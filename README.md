@@ -20,12 +20,12 @@
 
 ---
 
-### 👨‍: About Me :
+### 👨‍ About Me :
 
-I am a developer from India
+I am a developer from India , tamilnadu
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web
-applications.
+- :telescope: I’m working as a Associate Software Engineer at kissflow inc. C
+- :computer: Contributing to frontend and backend for building lowcode applications.
 
 - :seedling: Exploring Technical Content Writing.
 
