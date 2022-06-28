@@ -55,4 +55,4 @@ I am a developer from India , tamilnadu
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mohan-potter&theme=dark&background=000000)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohan-potter&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohan-potter&show_icons=true&theme=radical)
