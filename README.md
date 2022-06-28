@@ -24,14 +24,10 @@
 
 I am a developer from India , tamilnadu
 
-- :telescope: I’m working as a Associate Software Engineer at kissflow inc. C
-- :computer: Contributing to frontend and backend for building lowcode applications.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin
-Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :telescope: I’m working as a Associate Software Engineer at kissflow inc.
+- :computer: I was contributing to frontend for building lowcode applications.
+- :seedling: Exploring product management and culture
+- :link: Reach me [![Linkedin
+Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohanraj-venkatachalam/)
 
 ---
