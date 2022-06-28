@@ -124,3 +124,4 @@ Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoCo
         letter-spacing: -0.01em;
         transition-delay: 0.3s;
     }
+</style>
