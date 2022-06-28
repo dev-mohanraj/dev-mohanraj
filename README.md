@@ -2,7 +2,20 @@
 
 
 <img src="https://github.com/mohan-potter/mohan-potter/blob/main/Profile%20banner.png" alt="profile banner"/>
-<hr style="border-color: rgb(0, 37, 41)" />
+
+
+---
+
+### 👨‍ About Me :
+
+I am a developer from India , tamilnadu
+
+- :telescope: I’m working as a Associate Software Engineer at kissflow inc.
+- :computer: I was contributing to frontend for building lowcode applications.
+- :seedling: Exploring product management and culture
+- :link: Reach me [![Linkedin
+Badge](https://img.shields.io/badge/mohan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohanraj-venkatachalam/)
+
 <div class="badge" id="badges">
     <a href="https://www.linkedin.com/in/mohanraj-venkatachalam/">
        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
@@ -17,17 +30,5 @@
      alt="Twitter Badge" />
     </a>
 </div>
-
----
-
-### 👨‍ About Me :
-
-I am a developer from India , tamilnadu
-
-- :telescope: I’m working as a Associate Software Engineer at kissflow inc.
-- :computer: I was contributing to frontend for building lowcode applications.
-- :seedling: Exploring product management and culture
-- :link: Reach me [![Linkedin
-Badge](https://img.shields.io/badge/mohan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohanraj-venkatachalam/)
 
 ---
