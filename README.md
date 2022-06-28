@@ -3,9 +3,6 @@
 
 <img src="https://github.com/mohan-potter/mohan-potter/blob/main/Profile%20banner.png" alt="profile banner"/>
 <hr style="border-color: rgb(0, 37, 41)" />
-<div class="banner-2">
-   <img src="https://github.com/mohan-potter/mohan-potter/blob/main/banner.png" alt="banner"/>
-    <button class="btn">mohanraj3815</button>
     <div class="badge" id="badges">
         <a href="https://www.linkedin.com/in/mohanraj-venkatachalam/">
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
@@ -20,7 +17,6 @@
                 alt="Twitter Badge" />
         </a>
     </div>
-</div>
 <hr />
 
 ---
