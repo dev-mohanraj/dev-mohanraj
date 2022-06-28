@@ -28,6 +28,6 @@ I am a developer from India , tamilnadu
 - :computer: I was contributing to frontend for building lowcode applications.
 - :seedling: Exploring product management and culture
 - :link: Reach me [![Linkedin
-Badge](https://img.shields.io/badge/-mohan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohanraj-venkatachalam/)
+Badge](https://img.shields.io/badge/-Mohanraj V-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohanraj-venkatachalam/)
 
 ---
