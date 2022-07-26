@@ -1,7 +1,7 @@
 
 
 
-<img src="https://github.com/mohan-potter/mohan-potter/blob/main/Profile%20banner.png" alt="profile banner"/>
+<img src="https://github.com/dev-mohanraj/dev-mohanraj/blob/main/Profile%20banner.png" alt="profile banner"/>
 
 
 ---
@@ -53,6 +53,6 @@ I am a developer from India , tamilnadu
 
 ### :fire: Contributions :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mohan-potter&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dev-mohanraj&theme=dark&background=000000)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohan-potter&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-mohanraj&show_icons=true&theme=radical)
