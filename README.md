@@ -10,7 +10,7 @@
 
 I am a developer from India , tamilnadu
 
-- :telescope: I’m working as a Associate Software Engineer at kissflow inc.
+- :telescope: I’m working as a Software Engineer at kissflow inc.
 - :computer: I was contributing to frontend for building lowcode applications.
 - :seedling: Exploring product management and culture
 
