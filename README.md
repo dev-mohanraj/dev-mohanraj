@@ -10,8 +10,8 @@
 
 I am a developer from India , tamilnadu
 
-- :telescope: I’m working as a Software Engineer at kissflow inc.
-- :computer: I was contributing to frontend for building lowcode applications.
+- :telescope: I’m working as a Frontend Engineer at Happyfox.
+- :computer: I was contributing to frontend for building helpdesk applications.
 - :seedling: Exploring product management and culture
 
 <div class="badge" id="badges">
